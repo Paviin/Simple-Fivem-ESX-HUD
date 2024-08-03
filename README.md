@@ -17,14 +17,14 @@
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/Paviin/fivem-hud.git
+   git clone https://github.com/Paviin/Simple-Fivem-ESX-HUD.git
    ```
 
-2. Copy the `fivem-hud` folder to your Fivem server's `resources` directory.
+2. Copy the `pavyn_hud` folder to your Fivem server's `resources` directory.
 
 3. Add `start fivem-hud` to your `server.cfg`:
    ```cfg
-   start fivem-hud
+   start pavyn_hud
    ```
 
 ## Usage
